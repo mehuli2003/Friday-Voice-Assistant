@@ -3,7 +3,7 @@
 
 ## Overview
 
-**Friday** is a voice-controlled virtual assistant and productivity tool. It is designed to perform various tasks, provide information, and assist users with their daily activities through voice commands. The assistant utilizes several Python libraries and web APIs to carry out its functions.
+**Friday** is a voice-controlled virtual assistant and productivity tool. It is designed to perform various tasks, provide information, and assist users with their daily activities through voice commands. The assistant utilizes several python3 libraries and web APIs to carry out its functions.
 
 ## Table of Contents
 
@@ -43,7 +43,7 @@
    git clone https://github.com/your-username/Friday-Voice-Assistant.git
    ```
 
-2. Install the required Python packages using `pip`:
+2. Install the required python3 packages using `pip`:
 
    ```bash
    pip install pyttsx3 speech_recognition wikipedia pywhatkit selenium requests bs4 dadjokes Bard
